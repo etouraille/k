@@ -1,0 +1,11 @@
+{
+    "require": {
+        "setasign/fpdi-fpdf": "^2.0",
+        "phpoffice/phpword": "^0.15.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "K\\": "src/"
+        }
+    }
+}
